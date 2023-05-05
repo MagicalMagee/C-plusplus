@@ -3,8 +3,6 @@
 *
 *
 * RedBlackTree.cpp
-* Name: Joubert Marion O. Trias
-* Account number: cs1257
 * Class Section: CS 210-07
 * Date: 9 December 2022
 * 
