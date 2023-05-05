@@ -1,7 +1,5 @@
 //
 // PQLinkedList.cpp
-// Name: Joubert Marion O. Trias
-// Account number: cs1257
 // Class Section: CS 210-07
 // Date: 11 November 2022
 //
